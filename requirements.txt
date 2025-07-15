@@ -1,0 +1,10 @@
+torch
+gradio
+timm
+opencv-python
+ultralytics
+seaborn
+blosc2
+scikit-learn
+wandb
+torchmetrics
