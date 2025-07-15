@@ -1,8 +1,8 @@
 <div align="center">
-<h1>TITLE</h1>
+<h1>Paying Attention to Other Animal Detections Improves Camera Trap Classification Models</h1>
 
 <a href="https://arxiv.org/abs/TODO"><img src="https://img.shields.io/badge/arXiv-TO.DO-b31b1b" alt="arXiv"></a>
-<a href='https://huggingface.co/spaces/TODO'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
+<a href='https://huggingface.co/spaces/gdussert/MCA_Classifier'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
 
 
 **[LBBE](https://lbbe.univ-lyon1.fr/fr)**; **[CEFE](https://www.cefe.cnrs.fr/fr/)**; **[LECA](https://leca.osug.fr/)**
@@ -43,7 +43,7 @@ pip install -e .
 
 #### On Hugging Face
 
-Try out the without any installation on [Hugging Face](TODO).
+Try out the demo without any installation on [Hugging Face](https://huggingface.co/spaces/gdussert/MCA_Classifier).
 
 #### On your local machine
 
