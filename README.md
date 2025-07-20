@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Paying Attention to Other Animal Detections Improves Camera Trap Classification Models</h1>
 
-<a href="https://arxiv.org/abs/TODO"><img src="https://img.shields.io/badge/arXiv-TO.DO-b31b1b" alt="arXiv"></a>
+<a href="https://www.biorxiv.org/content/10.1101/2025.07.15.664849v1"><img src="https://img.shields.io/badge/bioRxiv-2025.07.15.664849-b31b1b" alt="arXiv"></a>
 <a href='https://huggingface.co/spaces/gdussert/MCA_Classifier'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
 
 
@@ -10,16 +10,6 @@
 
 [Gaspard Dussert](https://gdussert.github.io/), [Vincent Miele](https://vmiele.gitlab.io/), [Simon Chamaillé-Jammes](https://simonchamaillejammes.mystrikingly.com/), [Stéphane Dray](https://sdray.github.io/)
 </div>
-
-```bibtex
-@misc{dussert2025,
-      title={TODO}, 
-      author={TODO},
-      year={2025},
-      eprint={TODO},
-      archivePrefix={arXiv},
-}
-```
 
 ## Overview
 
@@ -110,6 +100,19 @@ python test.py --dataset $DATASET --dataset_type $DATASET_TYPE
 ```
 
 With `$DATASET_TYPE` being either `real` or `synthetic`.
+
+## Cite us
+
+```bibtex
+@misc{dussert2025attention,
+	author = {Dussert, Gaspard and Dray, Stéphane and Chamaillé-Jammes, Simon and Miele, Vincent},
+	title = {Paying Attention to Other Animal Detections Improves Camera Trap Classification Models},
+	year = {2025},
+	doi = {10.1101/2025.07.15.664849},
+	publisher = {bioRxiv},
+    type = {preprint},
+}
+```
 
 ## Acknowledgements
 
