@@ -8,7 +8,7 @@
 **[LBBE](https://lbbe.univ-lyon1.fr/fr)**; **[CEFE](https://www.cefe.cnrs.fr/fr/)**; **[LECA](https://leca.osug.fr/)**
 
 
-[Gaspard Dussert](https://gdussert.github.io/), [Vincent Miele](https://vmiele.gitlab.io/), [Simon Chamaillé-Jammes](https://simonchamaillejammes.mystrikingly.com/), [Stéphane Dray](https://sdray.github.io/)
+[Gaspard Dussert](https://gdussert.github.io/), [Stéphane Dray](https://sdray.github.io/), [Simon Chamaillé-Jammes](https://simonchamaillejammes.mystrikingly.com/), [Vincent Miele](https://vmiele.gitlab.io/)
 </div>
 
 ## Overview
@@ -110,7 +110,7 @@ With `$DATASET_TYPE` being either `real` or `synthetic`.
 	year = {2025},
 	doi = {10.1101/2025.07.15.664849},
 	publisher = {bioRxiv},
-    type = {preprint},
+	type = {preprint},
 }
 ```
 
