@@ -50,7 +50,7 @@ python gradio_demo.py
 
 ## Training and testing
 
-Download the data on [Zenodo](https://zenodo.org/records/15736090) and put them in `data/`.
+Download the data on [Zenodo](https://zenodo.org/records/17817342) and put them in `data/`.
 
 Each zip file includes the crop embeddings of several datasets:
 
