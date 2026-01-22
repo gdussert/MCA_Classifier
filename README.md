@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Paying Attention to Other Animal Detections Improves Camera Trap Classification Models</h1>
-
-<a href="https://www.biorxiv.org/content/10.1101/2025.07.15.664849v1"><img src="https://img.shields.io/badge/bioRxiv-2025.07.15.664849-b31b1b" alt="arXiv"></a>
+<a href="https://www.biorxiv.org/content/10.1101/2025.07.15.664849v2"><img src="https://img.shields.io/badge/bioRxiv-2025.07.15.664849-b31b1b" alt="arXiv"></a>
 <a href='https://huggingface.co/spaces/gdussert/MCA_Classifier'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
 
 
