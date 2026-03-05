@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Paying Attention to Other Animal Detections Improves Camera Trap Classification Models</h1>
-<a href="https://www.biorxiv.org/content/10.1101/2025.07.15.664849v2"><img src="https://img.shields.io/badge/bioRxiv-2025.07.15.664849-b31b1b" alt="arXiv"></a>
+<a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70260"><img src="https://img.shields.io/badge/Paper-Methods in Ecology and Evolution-22c916" alt="arXiv"></a>
 <a href='https://huggingface.co/spaces/gdussert/MCA_Classifier'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
 
 
@@ -50,7 +50,7 @@ python gradio_demo.py
 
 ## Training and testing
 
-Download the data on [Zenodo](https://zenodo.org/records/17817342) and put them in `data/`.
+Download the data on [Zenodo](https://zenodo.org/records/18377860) and put them in `data/`.
 
 Each zip file includes the crop embeddings of several datasets:
 
@@ -103,13 +103,14 @@ With `$DATASET_TYPE` being either `real` or `synthetic`.
 ## Cite us
 
 ```bibtex
-@misc{dussert2025attention,
+@article{dussert_paying_2026,
 	author = {Dussert, Gaspard and Dray, Stéphane and Chamaillé-Jammes, Simon and Miele, Vincent},
-	title = {Paying Attention to Other Animal Detections Improves Camera Trap Classification Models},
-	year = {2025},
-	doi = {10.1101/2025.07.15.664849},
-	publisher = {bioRxiv},
-	type = {preprint},
+	title = {Paying attention to other animal detections improves camera trap classification models},
+	year = {2026},
+	url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210x.70260},
+	doi = {10.1111/2041-210x.70260},
+	journal = {Methods in Ecology and Evolution},
+	publisher={Wiley Online Library}
 }
 ```
 
